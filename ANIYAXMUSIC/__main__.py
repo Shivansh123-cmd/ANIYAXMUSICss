@@ -50,12 +50,12 @@ async def init():
         pass
     await ANIYA.decorators()
     LOGGER("ANIYAXMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝐒 𝛖 𝐝 ֟፝ᥱ 𝛆 𝛒 </𝟑\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 � ʜ ɪ ᴠ ᴀ ɴ ꜱ ʜ | ˹𐩃˼ ‹⤹\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("ANIYAXMUSIC").info("𝗦𝗧𝗢𝗣 𝐒 𝛖 𝐝 ֟፝ᥱ 𝛆 𝛒 </𝟑 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("ANIYAXMUSIC").info("𝗦𝗧𝗢𝗣 � ʜ ɪ ᴠ ᴀ ɴ ꜱ ʜ | ˹𐩃˼ ‹⤹ 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
 
 
 if __name__ == "__main__":
