@@ -71,13 +71,13 @@ async def get_page_content(client, page_num, user_id):
     if page_num == 1:
         caption = (
             "<blockquote><emoji id='6334381440754517833'>👑</emoji> <b>ᴠɪᴘ ᴏᴡɴᴇʀ ᴘʀᴏꜰɪʟᴇ</b> 👑</blockquote>\n\n"
-            "<emoji id='6334672948774831861'>👤</emoji> <b>ɴᴀᴍᴇ:</b> ꜱᴜᴅᴇᴇᴘ\n"
+            "<emoji id='6334672948774831861'>👤</emoji> <b>ɴᴀᴍᴇ:</b> sʜɪᴠᴀɴsʜ\n"
             "<emoji id='6334696528145286813'>👨‍💻</emoji> <b>ʀᴏʟᴇ:</b> ᴅᴇᴠᴇʟᴏᴘᴇʀ (HellfireDevs)\n"
-            "<emoji id='6334471179801200139'>🎂</emoji> <b>ᴀɢᴇ:</b> 17\n"
+            "<emoji id='6334471179801200139'>🎂</emoji> <b>ᴀɢᴇ:</b> 16\n"
             "<emoji id='6334648089504122382'>🏫</emoji> <b>ᴄʟᴀꜱꜱ:</b> 11ᴛʜ\n"
             "<emoji id='6334333036473091884'>🕉</emoji> <b>ʀᴇʟɪɢɪᴏɴ:</b> ʜɪɴᴅᴜ\n"
             "<emoji id='6334789677396002338'>📍</emoji> <b>ᴄɪᴛʏ:</b> ᴅᴇʟʜɪ\n"
-            "<emoji id='6334598469746952256'>🏡</emoji> <b>ʜᴏᴍᴇᴛᴏᴡɴ:</b> ᴡᴇꜱᴛ ʙᴇɴɢᴀʟ (ᴡʙ)"
+            "<emoji id='6334598469746952256'>🏡</emoji> <b>ʜᴏᴍᴇᴛᴏᴡɴ:</b> ᴜᴘ"
         )
         markup = InlineKeyboardMarkup([
             [InlineKeyboardButton("ᴍᴏʀᴇ ɪɴꜰᴏ ➡️", callback_data="myinfo_p2")],
@@ -109,7 +109,7 @@ async def get_page_content(client, page_num, user_id):
         
         caption = (
             "<blockquote><emoji id='6334696528145286813'>💻</emoji> <b>ɢɪᴛʜᴜʙ & ᴡᴏʀᴋ ᴘʀᴏꜰɪʟᴇ</b> 💻</blockquote>\n\n"
-            "<emoji id='6334333036473091884'>🐙</emoji> <b>ɢɪᴛʜᴜʙ ᴜꜱᴇʀɴᴀᴍᴇ:</b> SUDEEPBOTS\n"
+            "<emoji id='6334333036473091884'>🐙</emoji> <b>ɢɪᴛʜᴜʙ ᴜꜱᴇʀɴᴀᴍᴇ:</b> Shivansh123-cmd\n"
             "<emoji id='6334648089504122382'>📂</emoji> <b>ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ:</b> {repos} ᴘʀᴏᴊᴇᴄᴛꜱ\n"
             "<emoji id='6334471179801200139'>🌟</emoji> <b>ꜱᴛᴀʀꜱ:</b> {stars} ɢɪᴛʜᴜʙ ꜱᴛᴀʀꜱ\n"
             "<emoji id='6334789677396002338'>🔥</emoji> <b>ᴛᴇᴀᴍ:</b> ʜᴇʟʟꜰɪʀᴇ ᴅᴇᴠꜱ\n\n"
